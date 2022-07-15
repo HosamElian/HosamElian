@@ -10,6 +10,8 @@ I’m Hossam Elian from Egypt, I do content in Python and Android. I really enjo
 - 💻 .Net/ HTML / CSS  
 - 💾 MYSQL DataBase 
 
+## Examples of Work
+<img scr="" width="256"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosamelian)](https://github.com/anuraghazra/github-readme-stats)
 
