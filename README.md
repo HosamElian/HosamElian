@@ -1,8 +1,13 @@
-### Hi there 👋, I'am Hossam
+### Hi there 👋
 #### I am Python Developer
-![I am Python Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Hossam Elian from Egypt, and I'm Python developer. I really enjoy learning new languages and frameworks like tensor flow, keras , as well as work in Python and Android with native language 
+I'm Hossam Elian from Egypt, and I'm Python and Android developer. I really enjoy working with Python and learning new more about AI and deal with it's library like Tensorflow and keras, and learning new languages and frameworks like .net, you can check out my linkedin at www.linkedin.com/in/hossam-elian-57b5761a4 
+facebook https://www.facebook.com/hosamelan
+
+
+![python](https://user-images.githubusercontent.com/54024372/179233370-cde1ac9f-a63c-4481-8f39-ccfd577d4148.png)
+
+
 
 Skills: Python / Android Development/ C++/ C#/ HTML / CSS 
 
