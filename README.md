@@ -1,14 +1,14 @@
-![python](https://user-images.githubusercontent.com/54024372/179233370-cde1ac9f-a63c-4481-8f39-ccfd577d4148.png)
-
-
 # Hossam Elian
-I’m Hossam Elian from Egypt, I do content in Python and Android. I really enjoy working with Python and learning new more about AI and deal with it’s library like Tensorflow and keras, and learning new languages and frameworks like .net, Please if need any help in your project contact me at Hossamemm@gmail.com
+I’m Hossam Elian from Egypt, I'm software engineer working @ Samsung electronics, I'm do content dot net, JS, Python and Android. I really enjoy working with Python and studing more about AI , and learning new languages and frameworks, Please if need any help in your project please don't hesitate to ask for help 
+
+![image](https://user-images.githubusercontent.com/54024372/213879398-184d1299-0eff-469f-82d4-07045b124744.png)
 
 ## Skills and Experience 
+- 💻 .Net/ JS / HTML / CSS
 - 🐍 Python 
 - 📱  Android Development
-- 💻 .Net/ HTML / CSS  
-- 💾 MYSQL DataBase 
+- 💾 MYSQL Server 
+
 
 ## Examples of Work
 <img scr="" width="256"/>
