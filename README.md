@@ -1,5 +1,8 @@
 # Hossam Elian
-I’m Hossam Elian from Egypt, I'm software engineer working @ Samsung electronics, I'm do content dot net, JS, Python and Android. I really enjoy working with Python and studing more about AI , and learning new languages and frameworks, Please if need any help in your project please don't hesitate to ask for help 
+I’m Hossam Elian from Egypt, I'm software engineer working @ Samsung electronics
+I do content in dot net, Angular, AI, JS, Python and Android. 
+I'm really enjoy working with Python and studing more about AI , and learning new languages and frameworks,
+Please if need any help in your project please don't hesitate to ask for help 
 
 ![image](https://user-images.githubusercontent.com/54024372/213879398-184d1299-0eff-469f-82d4-07045b124744.png)
 
