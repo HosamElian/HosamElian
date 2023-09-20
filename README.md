@@ -1,5 +1,5 @@
 # Hossam Elian
-I’m Hossam Elian  software engineer working @ Samsung electronics 💙\
+I’m Hossam Elian  software engineer working @ Samsung electronics 💙
 
 Please if need any help in your project please don't hesitate to ask for help 💪🏻
 
@@ -13,9 +13,9 @@ Please if need any help in your project please don't hesitate to ask for help �
 
 ## Examples of Work
 Asp.net MVC\
-"Book Store" https://github.com/HosamElian/BulkyBook/tree/main \
+"Book Store" https://github.com/HosamElian/BulkyBook/tree/main 
 
-Android\
+Android
   - "Miwok" (translation by text, sound, Videos) https://github.com/HosamElian/miwok
   - "Order Coffee" https://github.com/HosamElian/coffeeOrder
 
