@@ -12,9 +12,15 @@ Please if need any help in your project please don't hesitate to ask for help ðŸ
 
 
 ## Examples of Work
-Book Store "Asp.net MVC" https://github.com/HosamElian/BulkyBook/tree/main \
+Asp.net MVC\
+"Book Store" https://github.com/HosamElian/BulkyBook/tree/main \
 
-Python Basic for beginner https://github.com/HosamElian/Python-Basics/blob/main/README.md
+Android\
+  - "Miwok" (translation by text, sound, Videos) https://github.com/HosamElian/miwok
+  - "Order Coffee" https://github.com/HosamElian/coffeeOrder
+
+Python\
+"Basic for beginner" https://github.com/HosamElian/Python-Basics/blob/main/README.md
 
 
 
