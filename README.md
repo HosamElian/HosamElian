@@ -1,5 +1,5 @@
 # Hossam Elian
-I’m Hossam Elian  software engineer working @ Samsung electronics 💙
+I’m Hossam Elian  software engineer working @ Samsung electronics 💙\
 
 Please if need any help in your project please don't hesitate to ask for help 💪🏻
 
@@ -12,8 +12,8 @@ Please if need any help in your project please don't hesitate to ask for help �
 
 
 ## Examples of Work
-Book Store "Asp.net MVC"
-https://github.com/HosamElian/BulkyBook/tree/main
+Book Store "Asp.net MVC" https://github.com/HosamElian/BulkyBook/tree/main \
+
 Python Basic for begginer https://github.com/HosamElian/Python-Basics/blob/main/README.md
 
 
