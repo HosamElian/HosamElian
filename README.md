@@ -1,6 +1,6 @@
 # Hossam Elian
 I’m Hossam Elian  software engineer working @ Samsung electronics 💙
-Please feel free to enjoy here 🎃
+
 Please if need any help in your project please don't hesitate to ask for help 💪🏻
 
 
