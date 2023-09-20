@@ -14,7 +14,7 @@ Please if need any help in your project please don't hesitate to ask for help ðŸ
 ## Examples of Work
 Book Store "Asp.net MVC" https://github.com/HosamElian/BulkyBook/tree/main \
 
-Python Basic for begginer https://github.com/HosamElian/Python-Basics/blob/main/README.md
+Python Basic for beginner https://github.com/HosamElian/Python-Basics/blob/main/README.md
 
 
 
