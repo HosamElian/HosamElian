@@ -19,7 +19,7 @@ Asp.net Core MinimalAPI\
 "Magic Villa" [https://github.com/HosamElian/BulkyBook/tree/main ](https://github.com/HosamElian/MinimalAPI)
 
 SignalR\
-"More Than 5 Project in one Sln" [ https://github.com/HosamElian/SignalR](https://github.com/HosamElian/SignalRSample/tree/master)
+"More Than 5 Projects in one Sln" [ https://github.com/HosamElian/SignalR](https://github.com/HosamElian/SignalRSample/tree/master)
 
 Android
   - "Miwok" (translation by text, sound, Videos) https://github.com/HosamElian/miwok
