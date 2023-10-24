@@ -12,13 +12,16 @@ Please if need any help in your project please don't hesitate to ask for help ðŸ
 
 
 ## Examples of Work
-Asp.net MVC\
+Asp.net Core MVC\
 "Book Store" https://github.com/HosamElian/BulkyBook/tree/main 
+
+Asp.net Core MinimalAPI\
+"Magic Villa" [https://github.com/HosamElian/BulkyBook/tree/main ](https://github.com/HosamElian/MinimalAPI)
 
 SignalR\
 "More Than 5 Project in one Sln" [ https://github.com/HosamElian/SignalR](https://github.com/HosamElian/SignalRSample/tree/master)
 
-Android\
+Android
   - "Miwok" (translation by text, sound, Videos) https://github.com/HosamElian/miwok
   - "Order Coffee" https://github.com/HosamElian/coffeeOrder
 
