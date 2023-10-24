@@ -13,7 +13,7 @@ Please if need any help in your project please don't hesitate to ask for help ðŸ
 
 ## Examples of DotNet Works
 Asp.net Core API\
-"PatientSocialDistance" [https://github.com/HosamElian/BulkyBook/tree/main](https://github.com/HosamElian/PatientSocialDistance)
+"PatientSocialDistance" https://github.com/HosamElian/PatientSocialDistance
 
 Asp.net Core MVC\
 "Book Store" https://github.com/HosamElian/BulkyBook/tree/main 
