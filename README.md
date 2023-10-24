@@ -11,7 +11,10 @@ Please if need any help in your project please don't hesitate to ask for help ðŸ
 - ðŸ’¾ MYSQL Server 
 
 
-## Examples of Work
+## Examples of DotNet Works
+Asp.net Core API\
+"PatientSocialDistance" [https://github.com/HosamElian/BulkyBook/tree/main](https://github.com/HosamElian/PatientSocialDistance)
+
 Asp.net Core MVC\
 "Book Store" https://github.com/HosamElian/BulkyBook/tree/main 
 
@@ -21,6 +24,7 @@ Asp.net Core MinimalAPI\
 SignalR\
 "More Than 5 Projects in one Sln" [ https://github.com/HosamElian/SignalR](https://github.com/HosamElian/SignalRSample/tree/master)
 
+## Examples of Other Works
 Android
   - "Miwok" (translation by text, sound, Videos) https://github.com/HosamElian/miwok
   - "Order Coffee" https://github.com/HosamElian/coffeeOrder
