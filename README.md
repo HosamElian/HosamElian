@@ -7,8 +7,8 @@ Please if need any help in your project please don't hesitate to ask for help �
 ## Skills and Experience 
 - 💻 .Net/ JS / HTML / CSS
 - 🐍 Python 
-- 📱  Android Development
-- 💾 SQL Server |  
+- 📱  Android Development (Java - C# MAUI)
+- 💾 SQL Server   
 
 
 ## Examples of DotNet Works
