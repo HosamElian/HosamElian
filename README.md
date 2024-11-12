@@ -1,5 +1,5 @@
 # Hossam Elian
-I’m Hossam Elian Senior software engineer working @ Cybral electronics 💙
+I’m Hossam Elian Senior software engineer working @ Cybral  💙
 
 Please if need any help in your project please don't hesitate to ask for help 💪🏻
 
@@ -8,7 +8,7 @@ Please if need any help in your project please don't hesitate to ask for help �
 - 💻 .Net/ JS / HTML / CSS
 - 🐍 Python 
 - 📱  Android Development
-- 💾 MYSQL Server 
+- 💾 SQL Server |  
 
 
 ## Examples of DotNet Works
